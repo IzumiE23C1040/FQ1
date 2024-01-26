@@ -1,8 +1,8 @@
-FriendsQ/server/.env
-FriendsQ/server/node_modules/
-FriendsQ/front/node_modules/
-FriendsQ/front/jsconfig.json
-FriendsQ/front/README.md
-FriendsQ/front/public/favicon.ico
-FriendsQ/front/src/assets/logo.png
+server/.env
+server/node_modules/
+front/node_modules/
+front/jsconfig.json
+front/README.md
+front/public/favicon.ico
+front/src/assets/logo.png
 .vscode/settings.json
