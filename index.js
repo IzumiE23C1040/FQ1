@@ -396,3 +396,6 @@ function getMostVotedAnswer(room) {
 http.listen(3031, () => {
     logger.debug("Server started on port 3031");
 });
+
+//process.env.HEROKUURL;
+
