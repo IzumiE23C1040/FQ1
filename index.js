@@ -396,7 +396,7 @@ function getMostVotedAnswer(room) {
 const port = process.env.PORT || 3031;
 //　...
 http.listen(port, () => {
-    console.log("Server started on port" ,port);
+    logger.info("Server started on port" ,port);
 });
 
 //process.env.HEROKUURL;
